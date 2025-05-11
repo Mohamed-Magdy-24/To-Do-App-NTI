@@ -1,6 +1,6 @@
-# to_do_app
+# To-Do-App-with-API
 
-A new Flutter project.
+NTI To-Do App is a simple task management mobile application developed using Flutter as part of a training program at NTI (National Telecommunication Institute). 
 
 ## Getting Started
 
